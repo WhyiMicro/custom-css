@@ -15,7 +15,8 @@
 .platform-osx #app-mount>.errorPage-2pZ2Kq::before {
     margin-top: 35px;
 }
-
+/* Hide libs */
+div#BDFDB-card, div#ZeresPluginLibrary-card, div#XenoLib-card {display: none;}
 /* Historical */
 #app-mount>.errorPage-2pZ2Kq::before {
     top: 0;
