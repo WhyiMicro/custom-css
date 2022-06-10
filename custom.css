@@ -67,6 +67,9 @@ min-height: 0
 }
 
 /* --- UserPopout Border --- */
+#app-mount .userPopout-2j1gM4 .headerText-1-WmDq .nickname-t08Mck, #app-mount .userPopout-2j1gM4 .headerTagNoNickname-3tGHj6 {
+    max-width: calc(100% - 50px)
+}
 .userPopout-2j1gM4 .headerNormal-3Zn_yu {
 display: contents ;
 }
