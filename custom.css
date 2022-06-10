@@ -18,6 +18,13 @@
 /* --- Hide libs --- */
 div#BDFDB-card, div#ZeresPluginLibrary-card, div#XenoLib-card {display: none;}
 
+/* --- Hide unused buttons --- */
+.iconWrapper-2awDjA[aria-label="Notification Settings"],
+.iconWrapper-2awDjA[aria-label="Hide Member List"],
+.iconWrapper-2awDjA[aria-label="Help"] {
+    display: none;
+}
+
 /* --- Historical --- */
 #app-mount>.errorPage-2pZ2Kq::before {
     top: 0;
