@@ -131,7 +131,7 @@ background-image: inherit ;
     border-radius: unset;
 }
 
-/* header icon */
+/* --- header icon --- */
 .recentMentionsPopout-2bI1ZN .iconSizeMedium-2vzSua {
     width: 24px;
     height: 24px;
@@ -146,7 +146,7 @@ background-image: inherit ;
     margin-right: 6px;
 }
 
-/* channel name section */
+/* --- channel name section --- */
 .recentMentionsPopout-2bI1ZN .channelName-3APnhp svg path {
     fill: var(--channel-icon);
 }
@@ -174,7 +174,7 @@ background-image: inherit ;
     width: fit-content;
 }
 
-/* buttons */
+/* --- buttons --- */
 .recentMentionsPopout-2bI1ZN .container-iA3Qrz .closeButton-3CiW2j {
     opacity: 0;
 }
@@ -204,7 +204,7 @@ background-image: inherit ;
     margin-left: 12px;
 }
 
-/* Better vc seperation */
+/* --- Better vc seperation --- */
 .recentMentionsPopout-2bI1ZN .messages-23can0>button:last-of-type {
     margin-left:auto;
 }
@@ -216,7 +216,7 @@ background-image: inherit ;
     padding-right: 5px;
     margin-left: 24px;
 }
-/* Better Inbox */
+/* --- Better Inbox --- */
 .recentMentionsPopout-2bI1ZN .container-iA3Qrz,
 .recentMentionsPopout-2bI1ZN .channel-3NJZ1V {
     background-color: var(--background-primary);
