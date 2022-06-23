@@ -29,3 +29,8 @@ position: relative ;
 height: 120px ;
 background-image: inherit ;
 }
+.userPopout-2j1gM4 .banner-1YaD3N::before {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+}
