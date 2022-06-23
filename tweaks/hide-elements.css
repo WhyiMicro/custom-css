@@ -1,9 +1,9 @@
-.privateChannels-oVe7HL [href="/library"],
-.iconWrapper-2awDjA[aria-label="Notification Settings"],
-.iconWrapper-2awDjA[aria-label="Hide Member List"],
-.iconWrapper-2awDjA[aria-label="Help"],
-.premiumIconWrapper-32h0Ri,
-div#BDFDB-card,
-div#ZeresPluginLibrary-card,
-div#XenoLib-card
+.privateChannels-oVe7HL [href="/library"], /* Game library */
+.iconWrapper-2awDjA[aria-label="Notification Settings"], /* Notification settings */
+.iconWrapper-2awDjA[aria-label="Hide Member List"], /* Hide memberlist button */
+.iconWrapper-2awDjA[aria-label="Help"], /* Help button */
+.premiumIconWrapper-32h0Ri, /* Nitro badge on banner */
+div#BDFDB-card, /* BDFDB library */
+div#ZeresPluginLibrary-card, /* Zeres library */
+div#XenoLib-card /* Xeno library */
 {display:none}
