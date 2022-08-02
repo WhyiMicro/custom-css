@@ -4,3 +4,5 @@ You can find raw page [here](https://tf2imicro.github.io/custom-css/custom.css).
 On Discord, go to **Settings > Custom CSS** and add the following code:
 
     @import url("https://tf2imicro.github.io/custom-css/custom.css");
+### Changelog
++ [02.08.22] Added Roles Backgrounds
