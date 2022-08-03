@@ -1,36 +1,21 @@
-#app-mount .userPopout-2j1gM4 .headerText-1-WmDq .nickname-t08Mck, #app-mount .userPopout-2j1gM4 .headerTagNoNickname-3tGHj6 {
-    max-width: calc(100% - 50px)
+.userPopout-2j1gM4{
+    transform:translate(0);
+    --border-width:1px;
 }
-.userPopout-2j1gM4 .headerNormal-3Zn_yu {
-display: contents ;
-}
-.userPopout-2j1gM4 .banner-1YaD3N {
-display: contents ;
-}
-.userPopout-2j1gM4 .avatarPositionNormal-2jWoC2 ~ .headerTop-3GPUSF {
-padding-top: 16px ;
-}
-.userPopout-2j1gM4 .banner-1YaD3N::after {
-content: '';
-display: block;
-position: absolute ;
-top: -1px ;
-left: -1px ;
-background-color: inherit ;
-height: calc(100% + 2px) ;
-width: calc(100% + 2px) ;
-z-index: -1 ;
-border-radius: 8px ;
-}
-.userPopout-2j1gM4 .banner-1YaD3N::before {
-content: '';
-display: block;
-position: relative ;
-height: 120px ;
-background-image: inherit ;
-}
-.userPopout-2j1gM4 .banner-1YaD3N::before {
-    background-repeat: no-repeat;
-    background-position: 50%;
-    background-size: cover;
+
+.banner-1YaD3N:after{
+    content:'';
+    position:fixed;
+    height:100%;
+    width:100%;
+    z-index:1;
+    border:var(--border-width) solid #0000;
+    background-color:inherit;
+    background-origin: border-box;
+    -webkit-mask: 
+        linear-gradient(#000 0 0) padding-box, 
+        linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    box-sizing:border-box;
+    border-radius:8px;
 }
