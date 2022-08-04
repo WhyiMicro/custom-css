@@ -8,3 +8,4 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [02.08.22] Added Roles Backgrounds
 + [02.08.22] Added MacOs Titlebar Buttons with my own twist
 + [03.08.22] Fixed UserPopout-Border.css to work again
++ [04.08.22] Fixed UserPopout-Border.css so popout is interactable
