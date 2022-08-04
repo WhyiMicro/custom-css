@@ -18,4 +18,5 @@
     -webkit-mask-composite: xor;
     box-sizing:border-box;
     border-radius:8px;
+    pointer-events:none;
 }
