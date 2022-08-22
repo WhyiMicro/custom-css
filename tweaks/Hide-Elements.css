@@ -1,7 +1,8 @@
-.privateChannels-oVe7HL [href="/library"], /* Game library */
-.iconWrapper-2awDjA[aria-label="Notification Settings"], /* Notification settings */
-.iconWrapper-2awDjA[aria-label="Hide Member List"], /* Hide memberlist button */
-.iconWrapper-2awDjA[aria-label="Help"], /* Help button */
+[href="/store"], /* Nitro store */
+[href="/library"], /* Game library */
+[aria-label="Notification Settings"], /* Notification settings */
+[aria-label="Hide Member List"], /* Hide memberlist button */
+[aria-label="Help"], /* Help button */
 .premiumIconWrapper-32h0Ri, /* Nitro badge on banner */
 div#BDFDB-card, /* BDFDB library */
 div#ZeresPluginLibrary-card, /* Zeres library */
