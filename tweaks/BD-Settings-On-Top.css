@@ -1,0 +1,3 @@
+.side-2ur1Qk>:where([class^=bd-],[class*=-tab],:where([class*=-tab],[class^=bd-])+.separator-2wx7h6) {
+  order: -1;
+}
