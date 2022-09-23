@@ -13,4 +13,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [23.09.22] Removed UserPopout-Border.css, waiting for new discord update to change it
 + [23.09.22] Changed MacOs-Titlebar-Buttons.css to have it like I've always wanted.
 + [23.09.22] Reverted Discord icon back to old from Better-Icons.css
++ [23.09.22] Fixed Account-Date-Fix.css to fit new classes
 ---
