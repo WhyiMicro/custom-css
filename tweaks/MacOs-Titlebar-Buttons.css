@@ -1,7 +1,7 @@
 .winButton-3UMjdg:nth-child(2) {
-    color: rgb(114, 47, 47);
+    color: red;
     border-radius: 2000px;
-    background-color:rgb(114, 47, 47);
+    background-color:red;
     height: 15px;
     width: 15px;
     margin-top: 3px;
@@ -9,9 +9,9 @@
     margin-left: 10px;
 }
 .winButtonMinMax-3RsPUg:nth-child(4):hover {
-    color: green;
+    color:limegreen;
     border-radius: 2000px;
-    background-color:rgb(55, 212, 55);
+    background-color:limegreen;
     height: 15px;
     width: 15px;
     margin-top: 3px;
@@ -19,9 +19,9 @@
     margin-left: 10px;
 }
 .winButtonMinMax-3RsPUg:nth-child(3):hover {
-    color:rgb(141, 92, 0);
+    color:orange;
     border-radius: 200px;
-    background-color:rgb(255, 184, 53);
+    background-color:orange;
     height: 15px;
     width: 15px;
     margin-top: 3px;
@@ -29,9 +29,9 @@
     margin-left: 10px;
 }
 .winButton-3UMjdg:nth-child(2):hover {
-    color: rgb(110, 0, 0);
+    color:red;
     border-radius: 50%;
-    background-color:rgb(255, 70, 70);
+    background-color:red;
     height: 15px;
     width: 15px;
     margin-top: 3px;
@@ -39,9 +39,9 @@
     margin-left: 10px;
 }
 .winButtonMinMax-3RsPUg:nth-child(4) {
-    color:rgb(47, 124, 47);
+    color:limegreen;
     border-radius: 200px;
-    background-color:rgb(47, 124, 47);
+    background-color:limegreen;
     height: 15px;
     width: 15px;
     margin-top: 3px;
@@ -49,9 +49,9 @@
     margin-left: 10px;
 }
 .winButtonMinMax-3RsPUg:nth-child(3) {
-    color:rgb(141, 92, 0);
+    color:orange;
     border-radius: 200px;
-    background-color:rgb(141, 92, 0);
+    background-color:orange;
     height: 15px;
     width: 15px;
     margin-top: 3px;
@@ -59,7 +59,7 @@
     margin-left: 10px;
 }
 .winButton-3UMjdg {
-    color: #ff5b5b;
+    color: red;
     transition: all 200ms ease-out;
     height: 15px;
     width: 15px;
@@ -69,7 +69,6 @@
 }
 .winButton-3UMjdg:hover {
     background: transparent;
-    transform: rotate(45deg);
     border-radius: 30px;
     transition: all 200ms ease-out;
 }
