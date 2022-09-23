@@ -12,4 +12,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [24.08.22] Added BD-Settings-On-Top.css, which puts all the better discord settings at the top.
 + [23.09.22] Removed UserPopout-Border.css, waiting for new discord update to change it
 + [23.09.22] Changed MacOs-Titlebar-Buttons.css to have it like I've always wanted.
++ [23.09.22] Reverted Discord icon back to old from Better-Icons.css
 ---
