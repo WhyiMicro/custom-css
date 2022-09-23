@@ -1,19 +1,19 @@
 /* This fixes the heigh of the date to fit in with the other connections */
-.discordMemberCreatedAt-3htTfn {
-   height: 24px;
-   padding: 8px;
-}
-
-.discordMemberCreatedAtIconContainer-2NS-8S {
+.discordMemberCreatedAtIconContainer-2oMHqL  {
    padding: 0px;
    background-color: var(--background-tertiary);
 }
 
-.discordMemberCreatedAtText-18ZCAV>div{
+.discordMemberCreatedAtIcon-126if8 {
+   width: 24px;
+   height: 24px;
+}
+
+.discordMemberCreatedAtText-15sN5q>div{
    display: none;
 }
 
-.discordMemberCreatedAt-3htTfn>.discordMemberCreatedAtText-18ZCAV>h3{
+.discordMemberCreatedAt-31OkT7>.discordMemberCreatedAtText-15sN5q>h3{
    font-size: 16px;
    font-family: inherit;
    font-weight: 600;
