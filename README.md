@@ -17,4 +17,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [06.10.22] Added Consistent-Member-Since.css
 + [06.10.22] Added Account-Details-Columns.css
 + [06.10.22] Removed Account-Date-Fix.css cause new update broke it
++ [06.10.22] Added Gift, Gif & sticker buttons to Hide-Elements.css
 ---
