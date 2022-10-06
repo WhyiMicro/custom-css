@@ -4,8 +4,21 @@
 [aria-label="Hide Member List"], /* Hide memberlist button */
 [aria-label="Help"], /* Help button */
 .premiumIconWrapper-32h0Ri, /* Nitro badge on banner */
-.button-2fCJ0om, /* Gift, Gif & sticker buttons */
 div#BDFDB-card, /* BDFDB library */
 div#ZeresPluginLibrary-card, /* Zeres library */
 div#XenoLib-card /* Xeno library */
 {display:none}
+
+
+:root {
+    --Chat-GIF-Button: flex; /* flex = ON, none = OFF */
+    --Chat-Gift-Button: none; /* flex = ON, none = OFF */
+    --Chat-Sticker-Button: none; /* flex = ON, none = OFF */
+}
+
+/* Stickers Button */
+.channelTextArea-1FufC0 .buttons-uaqb-5 button[aria-label="Open sticker picker"] {display: var(--Chat-Sticker-Button) !important;}
+/* GIF Button */
+.channelTextArea-1FufC0 .buttons-uaqb-5 button[aria-label="Open GIF picker"] {display: var(--Chat-GIF-Button) !important;}
+/* Gift Button */
+.channelTextArea-1FufC0 .buttons-uaqb-5 button[aria-label="Send a gift"] {display: var(--Chat-Gift-Button) !important;}
