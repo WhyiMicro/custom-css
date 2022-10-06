@@ -14,4 +14,6 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [23.09.22] Changed MacOs-Titlebar-Buttons.css to have it like I've always wanted.
 + [23.09.22] Reverted Discord icon back to old from Better-Icons.css
 + [23.09.22] Fixed Account-Date-Fix.css to fit new classes
++ [06.10.22] Added Consistent-Member-Since.css
++ [06.10.22] Added Account-Details-Columns.css
 ---
