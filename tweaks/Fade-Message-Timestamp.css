@@ -1,2 +1,7 @@
-.cozy-VmLDNB .timestamp-p1Df1m {color: transparent}
-.cozy-VmLDNB .timestamp-p1Df1m:hover {color: var(--text-muted); transition: .3s ease;}
+.message-2CShn3 .header-2jRmjb>.timestamp-p1Df1m{
+  opacity: 0;
+  transition: .3s ease;
+}
+.mouse-mode.full-motion .message-2CShn3:hover .header-2jRmjb>.timestamp-p1Df1m{
+  opacity: 1;
+}
