@@ -18,4 +18,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [06.10.22] Added Gift, Gif & sticker buttons to Hide-Elements.css
 + [06.10.22] Added Fade-Message-Timestamp.css
 + [06.10.22] Added BD-Addon-Mini.css
++ [25.10.22] Added Remove-Status-Circle.css
 ---
