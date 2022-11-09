@@ -1,17 +1,9 @@
-.message-2CShn3{
+.message-2CShn3:is(.mentioned-Tre-dv,.replying-eZ7p5z) :where(.repliedMessage-3Z6XBG,.contents-2MsGLg,.contents-2MsGLg>img,.contents-2MsGLg+div:not(:last-child)){
     margin-left: 10px;
     margin-right: 10px;
 }
-.message-2CShn3:not(.mentioned-Tre-dv,.replying-eZ7p5z){
+.message-2CShn3:not(.mentioned-Tre-dv,.replying-eZ7p5z),.zalgo-26OfGz[aria-labelledby^=message-username-Uploader]{
     border-radius: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-.replying-eZ7p5z{
-    margin-left: 10px;
-    margin-right: 10px;
-}
-.hasReply-2Cr4KE{
     margin-left: 10px;
     margin-right: 10px;
 }
