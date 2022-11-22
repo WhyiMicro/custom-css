@@ -20,4 +20,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [06.10.22] Added BD-Addon-Mini.css
 + [25.10.22] Added Remove-Status-Circle.css
 + [07.11.22] Added Better-Message-Hover.css
++ [22.11.22] Added Widescreen-Settings.css
 ---
