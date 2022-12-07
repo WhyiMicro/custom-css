@@ -22,4 +22,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [07.11.22] Added Better-Message-Hover.css
 + [22.11.22] Added Widescreen-Settings.css
 + [01.12.22] Added Selection.css & Seamless-Top.css & Better-Blocked-Messages.css
++ [07.12.22] Added Hidden-Folder-Content.css
 ---
