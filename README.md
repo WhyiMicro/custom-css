@@ -24,4 +24,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [01.12.22] Added Selection.css & Seamless-Top.css & Better-Blocked-Messages.css
 + [07.12.22] Added Hidden-Folder-Content.css
 + [24.01.23] Added Better-Member-List.css
++ [25.01.23] Added Better-JumpToPresent.css
 ---
