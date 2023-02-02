@@ -1,11 +1,10 @@
-[href="/store"], /* Nitro store */
-[href="/library"], /* Game library */
-[aria-label="Notification Settings"], /* Notification settings */
-[aria-label="Hide Member List"], /* Hide memberlist button */
-[aria-label="Help"], /* Help button */
-.premiumIconWrapper-32h0Ri, /* Nitro badge on banner */
-.button-2fCJ0o, /* Gift, gif & sticker buttons */
-div#BDFDB-card, /* BDFDB library */
-div#ZeresPluginLibrary-card, /* Zeres library */
-{display:none}
-.scroller-kQBbkU::-webkit-scrollbar {display: none;}
+[href="/store"] {display:none} /* Nitro store */
+[href="/library"] {display:none} /* Game library */
+[aria-label="Notification Settings"] {display:none} /* Notification settings */
+[aria-label="Hide Member List"] {display:none} /* Hide memberlist button */
+[aria-label="Help"] {display:none} /* Help button */
+.premiumIconWrapper-32h0Ri {display:none} /* Nitro badge on banner */
+.button-2fCJ0o {display:none} /* Gift, gif & sticker buttons */
+div#BDFDB-card {display:none} /* BDFDB library */
+div#ZeresPluginLibrary-card {display:none} /* Zeres library */
+.scroller-kQBbkU::-webkit-scrollbar {display: none;} /* Scrollbar next to member list */
