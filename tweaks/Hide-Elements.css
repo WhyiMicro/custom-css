@@ -7,7 +7,6 @@
 .button-2fCJ0o, /* Gift, gif & sticker buttons */
 div#BDFDB-card, /* BDFDB library */
 div#ZeresPluginLibrary-card, /* Zeres library */
-div#XenoLib-card /* Xeno library */
 {display:none}
 *::-webkit-scrollbar {
    display: none;
