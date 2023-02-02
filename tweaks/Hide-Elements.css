@@ -8,6 +8,4 @@
 div#BDFDB-card, /* BDFDB library */
 div#ZeresPluginLibrary-card, /* Zeres library */
 {display:none}
-*::-webkit-scrollbar {
-   display: none;
-}
+.scroller-kQBbkU::-webkit-scrollbar {display: none;}
