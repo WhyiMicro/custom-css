@@ -26,4 +26,5 @@ On Discord, go to **Settings > Custom CSS** and add the following code:
 + [24.01.23] Added Better-Member-List.css
 + [25.01.23] Added Better-JumpToPresent.css
 + [31.01.23] Now hiding the scrollbar next to the member list (Hide-Elements.css)
++ [21.02.23] Added Floating-Folder.css
 ---
