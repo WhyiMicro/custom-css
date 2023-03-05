@@ -1,74 +1,30 @@
-.winButton-3UMjdg:nth-child(2) {
-    color: red;
-    border-radius: 2000px;
-    background-color:red;
-    height: 15px;
-    width: 15px;
-    margin-top: 3px;
+.platform-win .typeWindows-2-g3UY .winButton-3UMjdg {
+    width: 12px;
+    height: 12px;
     margin-right: 8px;
-    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 15px;
+    background-color: var(--background-primary);
+    background-size: 0;
+    -webkit-app-region: no-drag;
 }
-.winButtonMinMax-3RsPUg:nth-child(4):hover {
-    color:limegreen;
-    border-radius: 2000px;
-    background-color:limegreen;
-    height: 15px;
-    width: 15px;
-    margin-top: 3px;
-    margin-right: -2px;
-    margin-left: 10px;
+.platform-win .typeWindows-2-g3UY .winButton-3UMjdg svg {
+    display: none;
 }
-.winButtonMinMax-3RsPUg:nth-child(3):hover {
-    color:orange;
-    border-radius: 200px;
-    background-color:orange;
-    height: 15px;
-    width: 15px;
-    margin-top: 3px;
-    margin-right: -2px;
-    margin-left: 10px;
+.platform-win.app-focused .typeWindows-2-g3UY:hover div.winButton-3UMjdg {
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
-.winButton-3UMjdg:nth-child(2):hover {
-    color:red;
-    border-radius: 50%;
-    background-color:red;
-    height: 15px;
-    width: 15px;
-    margin-top: 3px;
-    margin-right: 8px;
-    margin-left: 10px;
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
+    background-color: #ff5c57;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUuMjkyODkgNkwyLjgxODAxIDMuNTI1MTNMMy41MjUxMiAyLjgxODAyTDUuOTk5OTkgNS4yOTI4OUw4LjQ3NDg3IDIuODE4MDJMOS4xODE5NyAzLjUyNTEzTDYuNzA3MSA2TDkuMTgxOTcgOC40NzQ4N0w4LjQ3NDg3IDkuMTgxOThMNS45OTk5OSA2LjcwNzExTDMuNTI1MTIgOS4xODE5OEwyLjgxODAxIDguNDc0ODdMNS4yOTI4OSA2WiIgZmlsbD0iI0EyMDAwOCIvPgo8L3N2Zz4=);
 }
-.winButtonMinMax-3RsPUg:nth-child(4) {
-    color:limegreen;
-    border-radius: 200px;
-    background-color:limegreen;
-    height: 15px;
-    width: 15px;
-    margin-top: 3px;
-    margin-right: -2px;
-    margin-left: 10px;
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
+    background-color: #fdbd3d;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDUuMzk5OTlIMlY2LjU5OTk5SDEwVjUuMzk5OTlaIiBmaWxsPSIjQjM3MTFBIi8+Cjwvc3ZnPg==);
 }
-.winButtonMinMax-3RsPUg:nth-child(3) {
-    color:orange;
-    border-radius: 200px;
-    background-color:orange;
-    height: 15px;
-    width: 15px;
-    margin-top: 3px;
-    margin-right: -2px;
-    margin-left: 10px;
-}
-.winButton-3UMjdg {
-    color: red;
-    transition: all 200ms ease-out;
-    height: 15px;
-    width: 15px;
-    margin-top: 3px;
-    margin-right: -2px;
-    margin-left: 10px;
-}
-.winButton-3UMjdg:hover {
-    background: transparent;
-    border-radius: 30px;
-    transition: all 200ms ease-out;
+.platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
+    background-color: #26c84b;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzkyOTMgMy4wMDg5M0wzLjAwODg3IDcuMzkyOTlMMi44MTc5NSAyLjgxODAxTDcuMzkyOTMgMy4wMDg5M1oiIGZpbGw9IiMwMjZBMTUiLz4KPHBhdGggZD0iTTQuNjA2OTUgOC45OTEwMUw4Ljk5MTAxIDQuNjA2OTVMOS4xODE5MyA5LjE4MTkzTDQuNjA2OTUgOC45OTEwMVogIiBmaWxsPSIjMDI2QTE1Ii8+Cjwvc3ZnPg==);
 }
