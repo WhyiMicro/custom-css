@@ -1,4 +1,4 @@
-/* My custom Better Discord css */
+/* iMicro's css */
 @import url(https://tf2imicro.github.io/custom-css/tweaks/Account-Details-Columns.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/BD-Addon-Mini.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/BD-Settings-On-Top.css);
@@ -24,3 +24,6 @@
 @import url(https://tf2imicro.github.io/custom-css/tweaks/VoiceChat-Separation.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/VoicePopout-Bar.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/Widescreen-Settings.css);
+
+/* Other's css */
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css);
