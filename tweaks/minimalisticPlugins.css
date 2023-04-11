@@ -1,3 +1,4 @@
+/* Makes the Plugin section of settings look more minimalistic */
 :root {
     --bdAddonMini-bg-checked: var(--background-tertiary);
     --bdAddonMini-bg-unchecked: var(--background-secondary);
