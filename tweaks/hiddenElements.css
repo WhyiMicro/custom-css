@@ -1,3 +1,4 @@
+/* Elements I want to remove from the client */
 [href="/store"] {display:none} /* Nitro store */
 [href="/library"] {display:none} /* Game library */
 [aria-label="Notification Settings"] {display:none} /* Notification settings */
