@@ -1,3 +1,4 @@
+/* Puts the Betterdiscord settings section on top of the settings menu */
 [class*="side"]>:where(
   [class*=bd-],
   [class*=-tab]+[class*=separator]) {
