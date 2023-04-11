@@ -8,4 +8,6 @@
 .button-2fCJ0o {display:none} /* Gift, gif & sticker buttons */
 div#BDFDB-card {display:none} /* BDFDB library */
 div#ZeresPluginLibrary-card {display:none} /* Zeres library */
-.scroller-kQBbkU::-webkit-scrollbar {display: none;} /* Scrollbar next to member list */
+.scroller-kQBbkU::-webkit-scrollbar {display: none;} /* Scrollbar in message section */
+.scroller-1ox3I2::-webkit-scrollbar {display: none;} /* Scrollbar on channel list */
+.scroller-1ox3I2 {margin-right: 8px;} /* margin fix */
