@@ -1,3 +1,4 @@
+/* Rounds the edges of a hovered message */
 .message-2CShn3:is(.mentioned-Tre-dv,.replying-eZ7p5z) :where(.repliedMessage-3Z6XBG,.contents-2MsGLg,.contents-2MsGLg>img,.contents-2MsGLg+div:not(:last-child)){
     margin-left: 10px;
     margin-right: 10px;
