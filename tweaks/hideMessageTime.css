@@ -1,3 +1,4 @@
+/* Hides when a message was sent, but it fades in once message is hovered */
 .message-2CShn3 .header-2jRmjb>.timestamp-p1Df1m{
   opacity: 0;
   transition: .3s ease;
