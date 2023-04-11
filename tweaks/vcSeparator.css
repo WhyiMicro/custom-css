@@ -1,3 +1,4 @@
+/* Adds a clean line to seperate voice channels when there are people in vc */
 .recentMentionsPopout-2bI1ZN .messages-23can0>button:last-of-type {
     margin-left:auto;
 }
