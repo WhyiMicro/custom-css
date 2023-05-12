@@ -33,4 +33,5 @@ At times, Discord will update some of their code, breaking some of the css. I'll
 + [25.01.23] Added Better-JumpToPresent.css
 + [31.01.23] Now hiding the scrollbar next to the member list (Hide-Elements.css)
 + [21.02.23] Added Floating-Folder.css
++ [12.05.23] Added BetterFloatingEditor
 ---
