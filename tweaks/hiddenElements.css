@@ -5,7 +5,9 @@
 [aria-label="Hide Member List"] {display:none} /* Hide memberlist button */
 [aria-label="Help"] {display:none} /* Help button */
 .premiumIconWrapper-32h0Ri {display:none} /* Nitro badge on banner */
-.button-2fCJ0o {display:none} /* Gift, gif & sticker buttons */
+button[aria-label="Send a gift"] {display: none;} /* Gift button */
+button[aria-label="Open sticker picker"] { display: none;} /* Sticker button */
 .scroller-kQBbkU::-webkit-scrollbar {display: none;} /* Scrollbar in message section */
 .scroller-1ox3I2::-webkit-scrollbar {display: none;} /* Scrollbar on channel list */
 .scroller-1ox3I2 {margin-right: 8px;} /* margin fix */
+/* .button-2fCJ0o {display:none;}*/ /* Gift, gif & sticker buttons */
