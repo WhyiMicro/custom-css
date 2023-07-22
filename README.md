@@ -36,4 +36,5 @@ At times, Discord will update some of their code, breaking some of the css. I'll
 + [12.05.23] Added BetterFloatingEditor
 + [10.07.23] Added a better modual for No Light mode in Dark mode
 + [20.07.23] Re added gif button and changed code to allow for some plugins (hideElements.css)
++ [22.07.23] Added messageText.css
 ---
