@@ -1,0 +1,9 @@
+@import url("https://tf2imicro.github.io/custom-css/custom.css");
+.textAreaSlate-9-y-k2>div:not([class])>:nth-last-child(2){font-size:0}
+.textAreaSlate-9-y-k2>div:not([class])>:nth-last-child(2):before{
+    content: 'Message...';
+    font-size: 0.9rem;
+}
+.textAreaSlate-9-y-k2{ overflow: hidden;}
+
+/* Adds custom text to the message area before you've typed in something */
