@@ -1,30 +1,32 @@
 /* iMicro's css */
-@import url(https://tf2imicro.github.io/custom-css/tweaks/myAccount.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/minimalisticPlugins.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/bdSettingsOnTop.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/improvedBlockedMessages.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/icons.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/jumpToPresent.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/memberList.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/messageHover.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/messageText.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/editedWhen.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/hideMessageTime.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/floatingFolder.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/folderIcons.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/hiddenElements.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/hideMessageTime.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/hideVcInfo.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/icons.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/improvedBlockedMessages.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/jumpToPresent.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/macosButtons.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/memberList.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/messageHover.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/messageText.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/minimalisticPlugins.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/roleBackgroundColor.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/roundMessageBar.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/seamlessTop.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/selectionColor.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/telegramDates.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/vcSeparator.css);
-@import url(https://tf2imicro.github.io/custom-css/tweaks/hideVcInfo.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/wideSettings.css);
 
 /* Other's css */
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css);
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css);
 @import url(https://dablulite.github.io/css-snippets/NoLightInDark/import.css);
-@import url(//dablulite.github.io/css-snippets/BetterFloatingEditor/import.css);
+@import url(https://dablulite.github.io/css-snippets/BetterModals/import.css);
+@import url(https://dablulite.github.io/css-snippets/BetterFloatingEditor/import.css);
+@import url(https://dablulite.github.io/css-snippets/BetterAuthApps/import.css);
