@@ -6,6 +6,6 @@ To lazy to put everything up now, but their names explain a lot, so just check o
 ## Installation
 On Discord, go to **Settings > Custom CSS** and add the following code:
 
-    @import url("https://tf2imicro.github.io/custom-css/custom.css");
+    @import url("//tf2imicro.github.io/custom-css/import.css");
 > **Warning**.
 At times, Discord will update some of their code, breaking some of the css. I'll try my best to keep the css relative.
