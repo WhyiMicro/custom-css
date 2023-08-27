@@ -9,3 +9,18 @@
 .divider-IqmEqJ:not(.isUnread-3Lojb-) {
   border-color: transparent;
 }
+.divider-IqmEqJ {
+  border-color: transparent;
+}
+.unreadPill-3nEWYM {
+  border-radius: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.unreadPillCap-2-iI4h {
+  display: none;
+}
+.divider-2rZFJK:has(.unreadPill-3nEWYM) > .content-3spvdd {
+  background-color: #f23f42;
+  color: white;
+}
