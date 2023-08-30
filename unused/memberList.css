@@ -1,0 +1,9 @@
+/* Makes the member list into a seperate box and roundes the edges as well as allign the bottom with the message input field */
+.membersWrap-3NUR2t>.members-3WRCEx{
+    height: calc(100% - 34px);
+    margin: 10px 7px 0;
+    border-radius: 10px;
+}
+.chat-2ZfjoI>.content-1jQy2l>div:last-child{
+    background: transparent;
+}
