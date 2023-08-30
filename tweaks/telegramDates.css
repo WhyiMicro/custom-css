@@ -1,5 +1,5 @@
 .content-3spvdd {
-  background: #3f4147;
+  background: #2b2d31;
   border-radius: 25px;
   padding: 5px 10px 5px 10px;
   color: white;
@@ -13,7 +13,7 @@
   border-color: transparent;
 }
 .unreadPill-3nEWYM {
-  border-radius: 25px;
+  border-radius: 0px;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -21,6 +21,38 @@
   display: none;
 }
 .divider-2rZFJK:has(.unreadPill-3nEWYM) > .content-3spvdd {
-  background-color: #f23f42;
+  background: #2b2d31;
+  border-radius: 25px;
+  padding: 5px 10px 5px 10px;
   color: white;
+  font-weight: 500;
+  justify-content: center;
+}
+.divider-2rZFJK {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  gap: 3px;
+  margin: 0;
+  border-top: unset;
+}
+.divider-2rZFJK .content-3spvdd {
+  background: #2b2d31;
+  color: white;
+}
+.divider-2rZFJK.isUnread-3Lojb- .unreadPill-3nEWYM {
+  position: unset;
+  background: transparent;
+  font-size: 0px;
+  text-transform: unset;
+  color: var(--divider-color);
+  background: var(--background-secondary);
+  padding: 12px 0;
+  width: 100%;
+}
+.divider-2rZFJK.isUnread-3Lojb- .unreadPill-3nEWYM::after {
+  content: "Unread messages";
+  font-size: 12px;
+  color: #54a9eb;
+  font-weight: 300;
 }
