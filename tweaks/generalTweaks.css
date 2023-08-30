@@ -1,0 +1,5 @@
+/* Fix gap between gif text and next msg */
+.altText-sAs-Ao {
+  margin: .25rem 0 -0.15rem;
+  line-height: 17px;
+}
