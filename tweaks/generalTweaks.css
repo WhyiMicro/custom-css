@@ -3,3 +3,7 @@
   margin: .25rem 0 -0.15rem;
   line-height: 17px;
 }
+/* Hide moveable stream preview while streaming */
+.pictureInPictureVideo-2puO2Q {
+  display: none;
+}
