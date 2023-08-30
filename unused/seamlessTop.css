@@ -1,0 +1,11 @@
+/* Removes the dropshadow at the top */
+.searchBar-3TnChZ,
+.header-3OsQeK {
+  box-shadow: none;
+}
+.tabBody-2dgbAs:before {
+  display: none;
+}
+.content-1jQy2l:before {
+  display: none;
+}
