@@ -1,13 +1,49 @@
-/* Elements I want to remove from the client */
-[href="/store"] {display:none} /* Nitro store */
-[href="/library"] {display:none} /* Game library */
-[aria-label="Notification Settings"] {display:none} /* Notification settings */
-[aria-label="Hide Member List"] {display:none} /* Hide memberlist button */
-[aria-label="Help"] {display:none} /* Help button */
-.premiumIconWrapper-32h0Ri {display:none} /* Nitro badge on banner */
-button[aria-label="Send a gift"] {display: none;} /* Gift button */
-button[aria-label="Open sticker picker"] { display: none;} /* Sticker button */
-.scroller-kQBbkU::-webkit-scrollbar {display: none;} /* Scrollbar in message section */
-.scroller-1ox3I2::-webkit-scrollbar {display: none;} /* Scrollbar on channel list */
-.scroller-1ox3I2 {margin-right: 8px;} /* margin fix */
-/* .button-2fCJ0o {display:none;}*/ /* Gift, gif & sticker buttons */
+/* Nitro store */
+[href="/store"] {
+  display: none;
+}
+
+/* Game library */
+[href="/library"] {
+  display: none;
+}
+
+/* Notification settings */
+[aria-label="Notification Settings"] {
+  display: none;
+}
+
+/* Help button */
+[aria-label="Help"] {
+  display: none;
+}
+
+/* Nitro badge on banner */
+.premiumIconWrapper-32h0Ri {
+  display: none;
+}
+
+/* Gift button */
+button[aria-label="Send a gift"] {
+  display: none;
+}
+
+/* Sticker button */
+button[aria-label="Open sticker picker"] {
+  display: none;
+}
+
+/* Scrollbar in message section */
+.scroller-kQBbkU::-webkit-scrollbar {
+  display: none;
+}
+
+/* Scrollbar on channel list */
+.scroller-1ox3I2::-webkit-scrollbar {
+  display: none;
+}
+
+/* margin fix */
+.scroller-1ox3I2 {
+  margin-right: 8px;
+}
