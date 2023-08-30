@@ -3,7 +3,13 @@
   margin: .25rem 0 -0.15rem;
   line-height: 17px;
 }
+
 /* Hide moveable stream preview while streaming */
 .pictureInPictureVideo-2puO2Q {
   display: none;
+}
+
+/* Normalize the Hide member list button color */
+.icon-2xnN2Y {
+    color: var(--interactive-normal) !important;
 }
