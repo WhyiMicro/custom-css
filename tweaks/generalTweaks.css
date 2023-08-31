@@ -13,3 +13,8 @@
 .icon-2xnN2Y {
     color: var(--interactive-normal) !important;
 }
+
+/* Fix Insert Timeline plugin's icon not being aligned with ConsistenChatbar css */
+.sansAttachButton-1ERHue > div[style*='margin-top: 10px'] {
+    margin: auto !important;
+}
