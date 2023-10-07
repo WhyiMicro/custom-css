@@ -1,5 +1,6 @@
 /* iMicro's css */
 @import url(https://tf2imicro.github.io/custom-css/tweaks/bdSettingsOnTop.css);
+@import url(https://tf2imicro.github.io/custom-css/tweaks/consistantChatBar.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/editedWhen.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/floatingFolder.css);
 @import url(https://tf2imicro.github.io/custom-css/tweaks/folderIcons.css);
@@ -27,4 +28,3 @@
 @import url(https://dablulite.github.io/css-snippets/NoLightInDark/import.css);
 @import url(https://dablulite.github.io/css-snippets/BetterFloatingEditor/import.css);
 @import url(https://dablulite.github.io/css-snippets/BetterAuthApps/import.css);
-@import url(https://dablulite.github.io/css-snippets/ConsistentChatbar/import.css);
