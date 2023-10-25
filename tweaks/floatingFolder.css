@@ -1,4 +1,4 @@
-/* Floating Folders when folders are opened */
+/* Floating Folders when folders are opened (broken)
 .wrapper-38slSD:active {
     -webkit-transform: unset;
     transform: none;
@@ -22,3 +22,4 @@
 [id^="folder-items-"]::-webkit-scrollbar {
     display: none;
 }
+*/
