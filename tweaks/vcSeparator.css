@@ -1,8 +1,8 @@
 /* Adds a clean line to seperate voice channels when there are people in vc */
-.recentMentionsPopout-2bI1ZN .messages-23can0>button:last-of-type {
+.recentMentionsPopout__826a9 .messages_f7999e>button:last-of-type {
     margin-left:auto;
 }
-.containerDefault-YUSmu3 .list-2x9Cl9.list-2kKmFw{
+.containerDefault__3187b .list__02208.list__54b1e{
     border-left: 1px solid var(--background-modifier-accent);
     border-bottom: 1px solid var(--background-modifier-accent);
     border-bottom-left-radius: 5px;
