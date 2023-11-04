@@ -1,25 +1,25 @@
 /* Fix gap between gif text and next msg */
-.altText-sAs-Ao {
+.altText__6dd8b {
   margin: .25rem 0 -0.15rem;
   line-height: 17px;
 }
 
 /* Hide moveable stream preview while streaming */
-.pictureInPictureVideo-2puO2Q {
+.pictureInPictureVideo_f1081d {
   display: none;
 }
 
 /* Normalize the Hide member list button color */
-.icon-2xnN2Y {
+.icon__4cb88 {
     color: var(--interactive-normal) !important;
 }
 
 /* Fix Insert Timeline plugin's icon not being aligned with ConsistenChatbar css */
-.sansAttachButton-1ERHue > div[style*='margin-top: 10px'] {
+.sansAttachButton__996a4 > div[style*='margin-top: 10px'] {
     margin: auto !important;
 }
 
 /* Remove facetime button */
-.iconWrapper-2awDjA:has(path[d^="M21.526 8.149C21.231 7.966"]) {
+.iconWrapper_af9215:has(path[d^="M21.526 8.149C21.231 7.966"]) {
     display: none;
 }
