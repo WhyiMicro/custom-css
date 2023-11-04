@@ -1,5 +1,5 @@
 /* Hides the voice chat info until it's being hovered */
-.panels-3wFtMD:not(:hover) > :not(:last-child), .panels-3wFtMD:not(:hover) > .wrapper-3Hk90B ~ div {
+.panels__58331:not(:hover) > :not(:last-child), .panels__58331:not(:hover) > .wrapper-3Hk90B ~ div {
     padding: 0;
     overflow: hidden;
     height: 0;
