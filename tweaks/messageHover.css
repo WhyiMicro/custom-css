@@ -1,9 +1,9 @@
 /* Rounds the edges of a hovered message */
-.message-2CShn3:is(.mentioned-Tre-dv,.replying-eZ7p5z) :where(.repliedMessage-3Z6XBG,.contents-2MsGLg,.contents-2MsGLg>img,.contents-2MsGLg+div:not(:last-child)){
+.message__80c10:is(.mentioned__58017,.replying_d7b6ad) :where(.repliedMessage_e2bf4a,.contents_f41bb2,.contents_f41bb2>img,.contents_f41bb2+div:not(:last-child)){
     margin-left: 10px;
     margin-right: 10px;
 }
-.message-2CShn3:not(.mentioned-Tre-dv,.replying-eZ7p5z),.zalgo-26OfGz[aria-labelledby^=message-username-Uploader]{
+.message__80c10:not(.mentioned__58017,.replying_d7b6ad),.zalgo__39311[aria-labelledby^=message-username-Uploader]{
     border-radius: 10px;
     margin-left: 10px;
     margin-right: 10px;
