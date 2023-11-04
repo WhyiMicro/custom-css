@@ -1,4 +1,4 @@
-.content-3spvdd {
+.content_d67847 {
   background: #2b2d31;
   border-radius: 25px;
   padding: 5px 10px 5px 10px;
@@ -6,21 +6,21 @@
   font-weight: 500;
   justify-content: center;
 }
-.divider-IqmEqJ:not(.isUnread-3Lojb-) {
+.divider__8cf56:not(.isUnread__6f880) {
   border-color: transparent;
 }
-.divider-IqmEqJ {
+.divider__8cf56 {
   border-color: transparent;
 }
-.unreadPill-3nEWYM {
+.unreadPill__715fc {
   border-radius: 0px;
   padding-left: 10px;
   padding-right: 10px;
 }
-.unreadPillCap-2-iI4h {
+.unreadPillCap__96b8d {
   display: none;
 }
-.divider-2rZFJK:has(.unreadPill-3nEWYM) > .content-3spvdd {
+.divider_b9338f:has(.unreadPill__715fc) > .content_d67847 {
   background: #2b2d31;
   border-radius: 25px;
   padding: 5px 10px 5px 10px;
@@ -28,7 +28,7 @@
   font-weight: 500;
   justify-content: center;
 }
-.divider-2rZFJK {
+.divider_b9338f {
   display: flex;
   flex-direction: column;
   height: auto;
@@ -36,11 +36,11 @@
   margin: 0;
   border-top: unset;
 }
-.divider-2rZFJK .content-3spvdd {
+.divider_b9338f .content_d67847 {
   background: #2b2d31;
   color: white;
 }
-.divider-2rZFJK.isUnread-3Lojb- .unreadPill-3nEWYM {
+.divider_b9338f.isUnread__6f880 .unreadPill__715fc {
   position: unset;
   background: transparent;
   font-size: 0px;
@@ -50,7 +50,7 @@
   padding: 12px 0;
   width: 100%;
 }
-.divider-2rZFJK.isUnread-3Lojb- .unreadPill-3nEWYM::after {
+.divider_b9338f.isUnread__6f880 .unreadPill__715fc::after {
   content: "Unread messages";
   font-size: 12px;
   color: #54a9eb;
