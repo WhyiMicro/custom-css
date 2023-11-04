@@ -1,8 +1,8 @@
 /* Hides when a message was sent, but it fades in once message is hovered */
-.message-2CShn3 .header-2jRmjb>.timestamp-p1Df1m{
+.message__80c10 .header__39b23>.timestamp_cdbd93{
   opacity: 0;
   transition: .3s ease;
 }
-.mouse-mode.full-motion .message-2CShn3:hover .header-2jRmjb>.timestamp-p1Df1m{
+.mouse-mode.full-motion .message__80c10:hover .header__39b23>.timestamp_cdbd93{
   opacity: 1;
 }
