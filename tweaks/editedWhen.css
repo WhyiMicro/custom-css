@@ -1,5 +1,5 @@
 /* Shows when text was edited */
-.timestamp-p1Df1m:not(.timestampInline-_lS3aK, .timestampVisibleOnHover-9PEuZS) time::after {
+.timestamp_cdbd93:not(.timestampInline__470e0, .timestampVisibleOnHover_e8cc6d) time::after {
         content: " (" attr(aria-label) ")";
         color: var(--text-muted);
         font-size: 0.625rem;
@@ -8,6 +8,6 @@
         text-transform: lowercase;
 }
 
-.edited-1v5nT8:not(.message-translate-indicator) {
+.edited_b20dd9:not(.message-translate-indicator) {
     display: none;
 }
