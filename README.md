@@ -1,3 +1,4 @@
+# !!! This repo is deprecated, you can find the new one [here](https://github.com/WhyiMicro/css-snippets)
 Custom css for [Discord](https://discord.com/). You can use it with [OpenAsar](https://openasar.dev/), [Better Discord](https://betterdiscord.app/) and pretty much any Discord modification that allows custom css integration.
 You can find raw page [here](https://tf2imicro.github.io/custom-css/custom.css).
 ## Features
